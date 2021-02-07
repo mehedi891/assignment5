@@ -1,0 +1,40 @@
+body{
+    background-color: khaki;
+}
+.mealDiv{
+    box-shadow: 20px 20px 30px rgb(216, 212, 212);
+    border-radius: 20px;
+    width: 400px;
+    margin-left: 400px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+}
+.mealDiv img{
+    width: 100%;
+    
+    
+}
+.mainDiv{
+    padding:100px;
+    
+}
+.mainDiv button{
+    margin-left: 5px;
+}
+.listDiv{
+    list-style-type: none;
+    
+}
+.listStyle{
+    margin-bottom: 2px;
+}
+.ingTitle{
+    text-align: center;
+    color:rgb(46, 119, 28);
+}
+.inputBtn{
+    margin-left: 100px;
+}
+
+    
